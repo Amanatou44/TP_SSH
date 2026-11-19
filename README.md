@@ -132,7 +132,7 @@ Le port 1024 du PC est redirigé, de façon chiffrée, vers le port 80 du serveu
 
 ![Tunnel sur le port 1024](captures/15_tunnel_1024.jpeg)
 
-![Page Apache via localhost:1024](captures/16_navigateur_apache.png)
+![Page Apache via localhost:1024](captures/16_navigateur_apache.jpeg)
 
 ### Tunnel vers la base de données MariaDB
 
